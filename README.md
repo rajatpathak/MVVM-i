@@ -3,5 +3,5 @@
 
 ## MVVM Architecture
 
-![MVVM](https://raw.githubusercontent.com/Shubham0812/MVVM-Tutorial/main/MVVM-Inception/MVVM.png)
+![MVVM](https://github.com/rajatpathak/MVVM-i/blob/master/MVVM-i/MVVM.png)
 
